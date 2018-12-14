@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an introduction to "Of Kings" written by Cornelius Nepos from his collection of essays *The Lives of Eminent Commanders*.  This is a piece of work originally written in Ancient Greek in the Second Century BCE. The translation I worked with was translated by Rev. John Selby Watson in 1876.[^Watson] The text of Watson's translation was published on the world-wide-web in  in 2003.[^Online] I am publishing this citable digital edition under an open license, with documentation.
+This is an introduction to "Of Kings" written by Cornelius Nepos from his collection of essays *The Lives of Eminent Commanders*. This is a piece of work originally written in Ancient Greek in the Second Century BCE. The translation I worked with was translated by Rev. John Selby Watson in 1876.[^Watson] This text of Watson's translation was published on the world-wide-web in  in 2003.[^Online] I am publishing this citable digital edition under an open license, with documentation.
 
 [^Watson]: Watson, J S, et al. *Justin, Cornelius Nepos, and Eutropius, Literally Translated, with Notes and a General Index*. H.G. Bohn, 1876.
 
@@ -18,7 +18,20 @@ Cornelius Nepos was born c. 110 BCE and died c. 24 BCE.[^Britannica]  He was bor
 
 ## Of Kings
 
-What separates a king from a general?  A king has higher position than a general, and most generals will never make it to the throne.  Some kings are kings in name but not in power, as Nepos tells us about Ageslaus the Lacdaemonian.  A king usually rules by birthright. This means that royal power is passed down through lineage. The thing that separates a general from a king is the actions the king does in everyday life as well as how he leads on the battle field.  The two kings that excelled more than the rest are the Macedonians, Philip and his son Alexander the Great. Philip was the founder of the unified Macedonian state.  In 336 BCE was assassinated by one of his seven bodyguards, and the rumor was he was killed because his wife Cleopatra offended the bodyguard.  His son Alexander III ("the Great") is another important king.  Alexander comes from the nation of Macedonians.  Alexander as a King set out to invade India and, in the process, defeated them.  After the win Alexander became sick with an unknown disease and his life was taken from him.  He died in 323 BC.  Alexander the Great dies 13 years after his father Philip.  Following the death of Alexander, the Great two important generals rose to power.  These were Antignous and Seleucus Nicator.  Antignous name in Greek means worthy and comparable of his father.  His father was Philip.  His brother was Alexander the Great.  Following Alexander, the Great's death in the war of the Duadochi Philip was said to have a major role in that war.  Then in 306BC he was declared a king.  Seleucus was appointed the commander of the companions.  When Alexander the Great was ruling Seleucus was appointed the infantry general and was later established as the empire of Seleucid Empire.  The death of Seleucus Nicator is not very well known but it is said he was assassinated and betrayed in a conspiracy.  Throughout this reading the idea shown is that kings’ actions are shown separately and that the reading is for almost all the generals of Greece.  
+Nepos' "Of Kings" is at the end of a series of accounts of Greek generals.  A few of these generals are: Themistocles, Aristides,
+Pausanias, Cimon, Lysander, Alcibiades, Thrasybulus, Conon and Dion.  Most important though missing from this list are some of the most famous ones… Philip, Alexander the Great.
+
+This essay is Nepos's way of explaining why these generals are missing. Nepos wrote another book "On Kings" where they received full bios.  In these letters Nepos says the following about kings who were also active general.
+
+What separates a king from a general?  A king has higher position than a general, and most generals will never make it to the throne.  Some kings are kings in name but not in power, as Nepos tells us about Ageslaus the Lacdaemonian.  A king usually rules by birthright. This means that royal power is passed down through lineage. The thing that separates a general from a king is the actions the king does in everyday life as well as how he leads on the battle field.  
+
+The two kings that excelled more than the rest are the Macedonians, Philip and his son Alexander the Great. Philip was the founder of the unified Macedonian state.  In 336 BCE was assassinated by one of his seven bodyguards, and the rumor was he was killed because his wife Cleopatra offended the bodyguard.  
+
+His son Alexander III ("the Great") is another important king.  Alexander comes from the nation of Macedonians.  Alexander as a King set out to invade India and, in the process, defeated them.  After the win Alexander became sick with an unknown disease and his life was taken from him.  He died in 323 BC.  Alexander the Great dies 13 years after his father Philip.  Following the death of Alexander, the Great two important generals rose to power.  These were Antignous and Seleucus Nicator.  
+
+Antignous name in Greek means worthy and comparable of his father.  His father was Philip.  His brother was Alexander the Great.  Following Alexander, the Great's death in the war of the Duadochi Philip was said to have a major role in that war.  The duadochi were the rival generals, families, and friends of Alexander the Great who fought to control over his empire after his death.  Then in 306BC he was declared a king.  
+
+Seleucus was appointed the commander of the companions.  When Alexander the Great was ruling Seleucus was appointed the infantry general and was later established as the empire of Seleucid Empire.  The death of Seleucus Nicator is not very well known but it is said he was assassinated and betrayed in a conspiracy.  Throughout this reading the idea shown is that kings’ actions are shown separately and that the reading is for almost all the generals of Greece.  
 
 ##Conclusion
 
